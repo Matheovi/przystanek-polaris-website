@@ -1,6 +1,6 @@
 {
-  "name": "PrzystanekPolaris",
-  "short_name": "PrzystanekPolaris",
+  "name": "Przystanek Polaris",
+  "short_name": "Polaris",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -16,6 +16,6 @@
     }
   ],
   "theme_color": "#260053",
-  "background_color": "#000000",
+  "background_color": "#260053",
   "display": "standalone"
 }
