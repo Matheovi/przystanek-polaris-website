@@ -1,6 +1,6 @@
 {
   "name": "Przystanek Polaris",
-  "short_name": "Polaris",
+  "short_name": "",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
