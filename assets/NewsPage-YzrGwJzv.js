@@ -1,0 +1,1 @@
+import{_ as e}from"./under-construction-CDsjcA2O.js";import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as s,a as t,o as c}from"./index-BvMf-cbO.js";const n={},a={class:"under-construction"};function _(i,o){return c(),s("div",a,o[0]||(o[0]=[t("img",{src:e},null,-1)]))}const l=r(n,[["render",_]]);export{l as default};
