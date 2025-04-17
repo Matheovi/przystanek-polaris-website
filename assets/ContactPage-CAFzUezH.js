@@ -1,0 +1,1 @@
+import{_ as t}from"./under-construction-DyIT7UNx.js";import{_ as e,c as s,b as r,o as c}from"./index-CJVrF6cc.js";const n={},a={class:"under-construction"};function _(i,o){return c(),s("div",a,o[0]||(o[0]=[r("img",{src:t},null,-1)]))}const f=e(n,[["render",_]]);export{f as default};
